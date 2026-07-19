@@ -1,0 +1,66 @@
+{
+  "version": "1.0",
+  "updated": "2026-07-19",
+  "apps": [
+    {
+      "id": "planning-conges",
+      "name": "Planning annuel congés",
+      "category": "RH & Planning",
+      "icon": "📅",
+      "color": "#1E90FF",
+      "version": "1.0.0",
+      "type": "gratuit",
+      "description": "Planifiez et gérez les congés de votre équipe sur l'année.",
+      "popular": true,
+      "isNew": false,
+      "size": "637 Ko",
+      "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/manifest.json",
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/PLANNING_ANNUEL_CONGES_1_FREE.xlsx"
+    },
+    {
+      "id": "inventaire-materiel",
+      "name": "Inventaire matériel",
+      "category": "Gestion",
+      "icon": "📊",
+      "color": "#27AE60",
+      "version": "1.0.0",
+      "type": "gratuit",
+      "description": "Suivez votre inventaire matériel et gérez les stocks efficacement.",
+      "popular": true,
+      "isNew": false,
+      "size": "473 Ko",
+      "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/inventaire-materiel/manifest.json",
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/inventaire-materiel/INVENTAIRE_MATERIEL_1_FREE.xlsx"
+    },
+    {
+      "id": "plan-action",
+      "name": "Plan d'action",
+      "category": "Gestion",
+      "icon": "✓",
+      "color": "#F39C12",
+      "version": "1.0.0",
+      "type": "gratuit",
+      "description": "Créez, suivez et clôturez vos actions correctives et préventives.",
+      "popular": true,
+      "isNew": false,
+      "size": "419 Ko",
+      "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/plan-action/manifest.json",
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/plan-action/PLAN_D_ACTION_1_FREE.xlsx"
+    },
+    {
+      "id": "calendrier-2026",
+      "name": "Calendrier 2026-2027",
+      "category": "RH & Planning",
+      "icon": "📆",
+      "color": "#3498DB",
+      "version": "1.0.0",
+      "type": "gratuit",
+      "description": "Calendrier annuel avec jours fériés suisses et planification.",
+      "popular": false,
+      "isNew": false,
+      "size": "410 Ko",
+      "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/calendrier-2026/manifest.json",
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/calendrier-2026/CALENDRIER_2026-2027_1_FREE.xlsx"
+    }
+  ]
+}
