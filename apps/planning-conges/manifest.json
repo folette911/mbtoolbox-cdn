@@ -1,0 +1,16 @@
+{
+  "id": "planning-conges",
+  "name": "Planning annuel congés",
+  "version": "1.0.0",
+  "category": "RH & Planning",
+  "author": "MB Toolbox",
+  "description": "Planifiez et gérez les congés de votre équipe sur l'année.",
+  "entry": {
+    "type": "excel",
+    "file": "PLANNING_ANNUEL_CONGES_1_FREE.xlsx"
+  },
+  "price": "Gratuit",
+  "size": "637 Ko",
+  "changelog": "v1.0.0 — Version initiale.",
+  "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/PLANNING_ANNUEL_CONGES_1_FREE.xlsx"
+}
