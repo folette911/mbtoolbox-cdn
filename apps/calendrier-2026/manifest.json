@@ -1,0 +1,16 @@
+{
+  "id": "calendrier-2026",
+  "name": "Calendrier 2026-2027",
+  "version": "1.0.0",
+  "category": "RH & Planning",
+  "author": "MB Toolbox",
+  "description": "Calendrier annuel avec jours fériés suisses et planification.",
+  "entry": {
+    "type": "excel",
+    "file": "CALENDRIER_2026-2027_1_FREE.xlsx"
+  },
+  "price": "Gratuit",
+  "size": "410 Ko",
+  "changelog": "v1.0.0 — Version initiale.",
+  "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/calendrier-2026/CALENDRIER_2026-2027_1_FREE.xlsx"
+}
