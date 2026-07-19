@@ -1,0 +1,16 @@
+{
+  "id": "plan-action",
+  "name": "Plan d'action",
+  "version": "1.0.0",
+  "category": "Gestion",
+  "author": "MB Toolbox",
+  "description": "Créez, suivez et clôturez vos actions correctives et préventives.",
+  "entry": {
+    "type": "excel",
+    "file": "PLAN_D_ACTION_1_FREE.xlsx"
+  },
+  "price": "Gratuit",
+  "size": "419 Ko",
+  "changelog": "v1.0.0 — Version initiale.",
+  "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/plan-action/PLAN_D_ACTION_1_FREE.xlsx"
+}
