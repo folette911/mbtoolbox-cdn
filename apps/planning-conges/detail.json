@@ -1,0 +1,43 @@
+{
+  "description": "Simplifiez la gestion des absences et améliorez la visibilité sur la disponibilité de vos équipes grâce à un planning annuel Excel intuitif et gratuit.\n\nIl permet de planifier les congés, maladies, formations, récupérations et autres absences dans un planning annuel clair et intuitif.\n\nGrâce aux calculs automatiques et au tableau de bord intégré, vous suivez rapidement les principaux indicateurs de présence, d'absence et de télétravail tout au long de l'année.",
+  "features": [
+    "Planning annuel des absences",
+    "Gestion des jours fériés",
+    "Paramétrage des types d'absence",
+    "Contrôles et validations de saisie",
+    "Calcul automatique des indicateurs",
+    "Tableau de bord visuel",
+    "Compatible Microsoft Excel 2016 et versions ultérieures",
+    "Sans macros",
+    "Gratuit"
+  ],
+  "screenshots": [
+    {
+      "url": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/img/Planning1.jpg",
+      "label": "Planning annuel"
+    },
+    {
+      "url": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/img/Planning2.jpg",
+      "label": "Planning détail"
+    },
+    {
+      "url": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/img/Parametres.jpg",
+      "label": "Paramètres"
+    },
+    {
+      "url": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/img/TDB1.jpg",
+      "label": "Tableau de bord 1"
+    },
+    {
+      "url": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/img/TDB2.jpg",
+      "label": "Tableau de bord 2"
+    }
+  ],
+  "docs": [
+    {
+      "label": "Guide utilisateur",
+      "url": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/Guide.pdf"
+    }
+  ],
+  "videos": []
+}
