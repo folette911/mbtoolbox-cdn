@@ -39,5 +39,12 @@
       "url": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/Guide.pdf"
     }
   ],
-  "videos": []
+  "videos": [
+    {
+      "title": "Tutoriel - Planning annuel congés",
+      "url": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/media/Tuto1.mkv",
+      "thumb": "",
+      "type": "local"
+    }
+  ]
 }
