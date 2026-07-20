@@ -15,7 +15,7 @@
       "isNew": false,
       "size": "637 Ko",
       "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/manifest.json",
-      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/PLANNING_ANNUEL_CONGES_1_FREE.xlsx"
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/PLANNING_ANNUEL_CONGES_1_FREE.xlsx"
     },
     {
       "id": "inventaire-materiel",
@@ -30,7 +30,7 @@
       "isNew": false,
       "size": "473 Ko",
       "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/inventaire-materiel/manifest.json",
-      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/inventaire-materiel/INVENTAIRE_MATERIEL_1_FREE.xlsx"
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/INVENTAIRE_MATERIEL_1_FREE.xlsx"
     },
     {
       "id": "plan-action",
@@ -45,7 +45,7 @@
       "isNew": false,
       "size": "419 Ko",
       "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/plan-action/manifest.json",
-      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/plan-action/PLAN_D_ACTION_1_FREE.xlsx"
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/PLAN_D_ACTION_1_FREE.xlsx"
     },
     {
       "id": "calendrier-2026",
@@ -60,7 +60,7 @@
       "isNew": false,
       "size": "410 Ko",
       "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/calendrier-2026/manifest.json",
-      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/calendrier-2026/CALENDRIER_2026-2027_1_FREE.xlsx"
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/CALENDRIER_2026-2027_1_FREE.xlsx"
     }
   ]
 }
