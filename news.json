@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "updated": "2026-07-20",
+  "news": [
+    {
+      "id": "n1",
+      "icon": "📅",
+      "color": "rgba(30,144,255,.18)",
+      "title": "Bienvenue sur MB Toolbox Hub",
+      "text": "Découvrez vos 4 premiers outils gratuits dans le Catalogue",
+      "date": "2026-07-20",
+      "link": ""
+    },
+    {
+      "id": "n2",
+      "icon": "🇨🇭",
+      "color": "rgba(39,174,96,.18)",
+      "title": "Calendrier 2026-2027 disponible",
+      "text": "Avec tous les jours fériés suisses par canton",
+      "date": "2026-07-19",
+      "link": ""
+    }
+  ],
+  "tips": [
+    "Utilisez les favoris ★ pour accéder plus rapidement à vos outils les plus utilisés.",
+    "Ctrl+K ouvre la recherche globale depuis n'importe quelle vue.",
+    "Le Hub vérifie automatiquement les mises à jour de vos applications au démarrage.",
+    "Vous pouvez changer le dossier d'installation dans Téléchargements → Changer le dossier.",
+    "Cliquez sur ··· sur une carte du Catalogue pour voir tous les détails techniques de l'application.",
+    "Vos données personnelles dans le dossier data\\ sont préservées lors des mises à jour.",
+    "Changez la langue du Hub depuis votre profil en bas à gauche (FR / DE / EN / IT).",
+    "L'historique complet de vos installations est disponible dans Téléchargements → Voir tout."
+  ]
+}
