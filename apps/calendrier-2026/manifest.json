@@ -7,10 +7,10 @@
   "description": "Calendrier annuel avec jours fériés suisses et planification.",
   "entry": {
     "type": "excel",
-    "file": "CALENDRIER_2026-2027_1_FREE.xlsx"
+    "file": "Calendrier 2026-2027.xlsx"
   },
   "price": "Gratuit",
   "size": "410 Ko",
   "changelog": "v1.0.0 — Version initiale.",
-  "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/Calendrier 2026-2027.xlsx"
+  "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/CALENDRIER_2026-2027_1_FREE.xlsx"
 }
