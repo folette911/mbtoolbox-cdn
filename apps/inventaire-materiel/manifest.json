@@ -11,6 +11,13 @@
   },
   "price": "Gratuit",
   "size": "473 Ko",
-  "changelog": "v1.0.0 — Version initiale.",
-  "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/inventaire-materiel/INVENTAIRE_MATERIEL_1_FREE.xlsx"
+  "changelog": [
+    {
+      "type": "n",
+      "text": "Version initiale."
+    }
+  ],
+  "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/INVENTAIRE_MATERIEL_1_FREE.xlsx",
+  "checksum": "sha256:6820374a54d1f5cf45363323711086385559e92eb6bc9ff67e4b928069be5868",
+  "updated": "2026-07-24"
 }

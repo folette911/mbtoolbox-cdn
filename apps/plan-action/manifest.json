@@ -11,6 +11,13 @@
   },
   "price": "Gratuit",
   "size": "419 Ko",
-  "changelog": "v1.0.0 — Version initiale.",
-  "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/plan-action/PLAN_D_ACTION_1_FREE.xlsx"
+  "changelog": [
+    {
+      "type": "n",
+      "text": "Version initiale."
+    }
+  ],
+  "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/PLAN_D_ACTION_1_FREE.xlsx",
+  "checksum": "sha256:90942f485a4630cf88a9171741d98695c1016154116728e85b8a197029ebe881",
+  "updated": "2026-07-24"
 }

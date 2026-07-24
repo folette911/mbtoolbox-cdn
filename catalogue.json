@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-07-19",
+  "updated": "2026-07-24",
   "apps": [
     {
       "id": "planning-conges",
@@ -15,7 +15,8 @@
       "isNew": false,
       "size": "637 Ko",
       "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/planning-conges/manifest.json",
-      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/PLANNING_ANNUEL_CONGES_1_FREE.xlsx"
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/PLANNING_ANNUEL_CONGES_1_FREE.xlsx",
+      "checksum": "sha256:d585749bd7015fe6d1a47d8ff59dbfe6f2ff9fc348d781e943743484e6219d09"
     },
     {
       "id": "inventaire-materiel",
@@ -30,7 +31,8 @@
       "isNew": false,
       "size": "473 Ko",
       "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/inventaire-materiel/manifest.json",
-      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/INVENTAIRE_MATERIEL_1_FREE.xlsx"
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/INVENTAIRE_MATERIEL_1_FREE.xlsx",
+      "checksum": "sha256:6820374a54d1f5cf45363323711086385559e92eb6bc9ff67e4b928069be5868"
     },
     {
       "id": "plan-action",
@@ -45,7 +47,8 @@
       "isNew": false,
       "size": "419 Ko",
       "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/plan-action/manifest.json",
-      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/PLAN_D_ACTION_1_FREE.xlsx"
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/PLAN_D_ACTION_1_FREE.xlsx",
+      "checksum": "sha256:90942f485a4630cf88a9171741d98695c1016154116728e85b8a197029ebe881"
     },
     {
       "id": "calendrier-2026",
@@ -60,7 +63,8 @@
       "isNew": false,
       "size": "410 Ko",
       "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/calendrier-2026/manifest.json",
-      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/CALENDRIER_2026-2027_1_FREE.xlsx"
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/CALENDRIER_2026-2027_1_FREE.xlsx",
+      "checksum": "sha256:954a8ff768bd99ad72a8c61eb150a14eeb9fd6c75c485b19a2eb2a3b029ba4aa"
     }
   ]
 }

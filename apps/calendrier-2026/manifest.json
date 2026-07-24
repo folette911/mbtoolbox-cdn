@@ -11,6 +11,13 @@
   },
   "price": "Gratuit",
   "size": "410 Ko",
-  "changelog": "v1.0.0 — Version initiale.",
-  "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/CALENDRIER_2026-2027_1_FREE.xlsx"
+  "changelog": [
+    {
+      "type": "n",
+      "text": "Version initiale."
+    }
+  ],
+  "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/CALENDRIER_2026-2027_1_FREE.xlsx",
+  "checksum": "sha256:954a8ff768bd99ad72a8c61eb150a14eeb9fd6c75c485b19a2eb2a3b029ba4aa",
+  "updated": "2026-07-24"
 }
