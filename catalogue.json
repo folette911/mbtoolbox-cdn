@@ -1,7 +1,23 @@
 {
   "version": "1.0",
-  "updated": "2026-07-24",
+  "updated": "2026-09-28",
   "apps": [
+    {
+      "id": "mbt-morpion",
+      "name": "MBT Morpion",
+      "category": "Jeux",
+      "icon": "🎮",
+      "color": "#9B59B6",
+      "version": "1.0.0",
+      "type": "gratuit",
+      "description": "Jeu de morpion (tic-tac-toe) contre une IA, jouable hors ligne.",
+      "popular": false,
+      "isNew": true,
+      "size": "5,2 Mo",
+      "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/mbt-morpion/manifest.json",
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/MBT-Morpion-1.0.0.apk",
+      "checksum": "sha256:4a01755e7643fe8192e3b08725928e77c668a9f11b33b786f4749facade6148e"
+    },
     {
       "id": "planning-conges",
       "name": "Planning annuel congés",
