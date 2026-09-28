@@ -8,15 +8,15 @@
       "category": "Jeux",
       "icon": "🎮",
       "color": "#9B59B6",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "type": "gratuit",
       "description": "Jeu de morpion (tic-tac-toe) contre une IA, jouable hors ligne.",
       "popular": false,
       "isNew": true,
       "size": "5,2 Mo",
       "manifestUrl": "https://folette911.github.io/mbtoolbox-cdn/apps/mbt-morpion/manifest.json",
-      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/MBT-Morpion-1.0.0.apk",
-      "checksum": "sha256:4a01755e7643fe8192e3b08725928e77c668a9f11b33b786f4749facade6148e"
+      "downloadUrl": "https://folette911.github.io/mbtoolbox-cdn/files/MBT-Morpion-1.0.1.apk",
+      "checksum": "sha256:aafe7ffabd65102d22485e8b1fda9eb54223860d2c3bf15ff2d05e187b52c366"
     },
     {
       "id": "planning-conges",
